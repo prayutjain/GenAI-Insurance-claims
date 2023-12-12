@@ -1,7 +1,7 @@
 
-# Medical Data Processing Project
+# Medical Claim Data Processing Project
 
-This project encompasses a comprehensive pipeline for processing medical data. It includes the generation of artificial forms, extraction of key information using a trained BERT model, and summarization of extracted data with a focus on prescription details. The project leverages both AI models and custom data processing techniques.
+This project encompasses a comprehensive pipeline for processing medical claim data. It includes the generation of artificial forms, extraction of key information using a trained BERT model, and summarization of extracted data with a focus on prescription details. The project leverages both AI models and custom data processing techniques.
 
 ## Components
 
